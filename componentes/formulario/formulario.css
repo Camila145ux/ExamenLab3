@@ -1,0 +1,30 @@
+.formulario{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.BotonAgregar {
+    width: 8rem;
+    height: 5rem;
+    border: none;
+    margin-left: 10rem;
+    border-radius: 12px;
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+    justify-content: center;
+}
+
+.buscador{
+     height: 7rem;
+    width: 25rem;
+    flex: 1;
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    cursor: text;
+    margin: 2rem;
+}
